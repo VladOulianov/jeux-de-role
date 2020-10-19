@@ -1,0 +1,13 @@
+C:\Users\Nicolas\source\repos\jeux de role\jeux de role\bin\Debug\netcoreapp3.1\jeux de role.exe
+C:\Users\Nicolas\source\repos\jeux de role\jeux de role\bin\Debug\netcoreapp3.1\jeux de role.deps.json
+C:\Users\Nicolas\source\repos\jeux de role\jeux de role\bin\Debug\netcoreapp3.1\jeux de role.runtimeconfig.json
+C:\Users\Nicolas\source\repos\jeux de role\jeux de role\bin\Debug\netcoreapp3.1\jeux de role.runtimeconfig.dev.json
+C:\Users\Nicolas\source\repos\jeux de role\jeux de role\bin\Debug\netcoreapp3.1\jeux de role.dll
+C:\Users\Nicolas\source\repos\jeux de role\jeux de role\bin\Debug\netcoreapp3.1\jeux de role.pdb
+C:\Users\Nicolas\source\repos\jeux de role\jeux de role\obj\Debug\netcoreapp3.1\jeux de role.AssemblyInfoInputs.cache
+C:\Users\Nicolas\source\repos\jeux de role\jeux de role\obj\Debug\netcoreapp3.1\jeux de role.AssemblyInfo.cs
+C:\Users\Nicolas\source\repos\jeux de role\jeux de role\obj\Debug\netcoreapp3.1\jeux de role.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\source\repos\jeux de role\jeux de role\obj\Debug\netcoreapp3.1\jeux de role.dll
+C:\Users\Nicolas\source\repos\jeux de role\jeux de role\obj\Debug\netcoreapp3.1\jeux de role.pdb
+C:\Users\Nicolas\source\repos\jeux de role\jeux de role\obj\Debug\netcoreapp3.1\jeux de role.genruntimeconfig.cache
+C:\Users\Nicolas\source\repos\jeux de role\jeux de role\obj\Debug\netcoreapp3.1\jeux de role.csprojAssemblyReference.cache
